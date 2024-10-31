@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rooom 3D Product Viewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-09 20:46+0000\n"
+"PO-Revision-Date: 2022-03-29 18:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch (Sie)\n"
+"Language: de-DE-formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.8.3\n"
+"X-Domain: rooom-3d-product-viewer"
+
+#: includes/rooom-woocommerce-settings.php:85
+msgid "Activate box around object."
+msgstr "Box um das Objekt aktivieren"
+
+#: includes/rooom-admin-settings.php:110
+msgid "Activates skybox around product"
+msgstr "Aktiviert Box um das Produkt"
+
+#: includes/rooom-admin-settings.php:176
+msgid "Animation Loop"
+msgstr "Animationsschleife"
+
+#: includes/rooom-admin-settings.php:20 includes/rooom-admin-settings.php:162 
+#: includes/rooom-admin-settings.php:614
+msgid "Animations"
+msgstr "Animationen"
+
+#: includes/rooom-admin-settings.php:234
+msgid "Annotation Marker"
+msgstr "Marker für Zusatzinformationen"
+
+#: includes/rooom-admin-settings.php:248
+msgid "Annotation Marker Size"
+msgstr "Größe des Markers für Zusatzinformationen"
+
+#: includes/rooom-admin-settings.php:21 includes/rooom-admin-settings.php:192 
+#: includes/rooom-admin-settings.php:615
+msgid "Annotations"
+msgstr "Zusatzinformationen"
+
+#: includes/rooom-admin-settings.php:279
+msgid "AR Placement"
+msgstr "AR Platzierung"
+
+#: includes/rooom-admin-settings.php:265
+msgid "AR Scale"
+msgstr "AR Maßstab"
+
+#: includes/rooom-admin-settings.php:22 includes/rooom-admin-settings.php:616
+msgid "Augmented Reality"
+msgstr "Augmented Reality"
+
+#: includes/rooom-admin-settings.php:29
+msgid "Autospin"
+msgstr "Autospin"
+
+#: includes/rooom-admin-settings.php:44
+msgid "Autostart"
+msgstr "Autostart"
+
+#: includes/rooom-admin-settings.php:90 
+#: includes/rooom-woocommerce-settings.php:65
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: includes/rooom-admin-settings.php:23 includes/rooom-admin-settings.php:617
+msgid "Camera"
+msgstr "Kamera"
+
+#: includes/rooom-admin-settings.php:298
+msgid "Camera Zoom Auto"
+msgstr "Kamerazoom Auto"
+
+#: includes/rooom-admin-settings.php:312
+msgid "Camera Zoom Max"
+msgstr "Kamerazoom Max"
+
+#: includes/rooom-admin-settings.php:325
+msgid "Camera Zoom Min"
+msgstr "Kamerazoom Min"
+
+#: includes/rooom-admin-settings.php:337
+msgid "Camera Zoom Start"
+msgstr "Kamerazoom Start"
+
+#: includes/rooom-admin-settings.php:472
+msgid "Change the color of the viewer loading bar"
+msgstr "Farbe des Viewer Ladebalkens ändern"
+
+#: includes/rooom-admin-settings.php:153
+msgid "Enable mirror under the product"
+msgstr "Spiegelung unter dem Produkt aktivieren"
+
+#: includes/rooom-woocommerce-settings.php:100
+msgid "Enable mirror under the product."
+msgstr "Spiegelung unter dem Produkt aktivieren"
+
+#: includes/rooom-woocommerce-settings.php:48
+msgid "Enable the rooom 3D Product Viewer for this product"
+msgstr "rooom 3D Produkt Viewer für dieses Produkt aktivieren"
+
+#: includes/rooom-admin-settings.php:169
+msgid "Enables animations on object."
+msgstr "Animationen auf dem Objekt aktivieren"
+
+#: includes/rooom-admin-settings.php:199
+msgid "Enables annotations on object."
+msgstr "Zusatzinformationen zu dem Objekt aktivieren"
+
+#: includes/rooom-admin-settings.php:305
+msgid ""
+"Enables automatic scaling of camera zoom. If not activated, Camera Zoom Max, "
+"Camera Zoom Min and Camera Zoom Start need to be set manually."
+msgstr ""
+"Automatische Skalierung des Kamerazooms aktivieren; wenn nicht aktiviert, "
+"müssen Kamerazoom Max, Kamerazoom Min und Kamerazoom Start manuell "
+"eingestellt werden"
+
+#: includes/rooom-admin-settings.php:183
+msgid "Enables the loop-mode for \"animation_play\" animation."
+msgstr "Loop Modus für \"animation_play\" Animationen aktivieren"
+
+#: includes/rooom-admin-settings.php:66
+msgid "English"
+msgstr "Englisch"
+
+#: includes/rooom-woocommerce-settings.php:76
+msgid "Enter the Logo url to show while loading your asset."
+msgstr ""
+"Geben Sie die Logo-URL ein, die beim Laden Ihres Assets angezeigt werden "
+"soll."
+
+#: includes/rooom-woocommerce-settings.php:57
+msgid "Enter the Product ID for the asset you created in rooom.com."
+msgstr ""
+"Geben Sie die Produkt-ID für das Asset ein, das Sie auf rooom.com erstellt "
+"haben."
+
+#: includes/rooom-admin-settings.php:19 includes/rooom-admin-settings.php:613
+msgid "Environment"
+msgstr "Objektumgebung"
+
+#: includes/rooom-admin-settings.php:131
+msgid "Environment Intensity"
+msgstr "Intensität der Objektumgebung"
+
+#: includes/rooom-admin-settings.php:220
+msgid "First Annotations"
+msgstr "Erste Zusatzinformationen"
+
+#: includes/rooom-admin-settings.php:82
+msgid "Force the AR mode after start."
+msgstr "AR-Modus nach dem Start erzwingen"
+
+#: includes/rooom-admin-settings.php:18 includes/rooom-admin-settings.php:612
+msgid "General"
+msgstr "Allgemein"
+
+#: includes/rooom-admin-settings.php:65
+msgid "German"
+msgstr "Deutsch"
+
+#: includes/rooom-admin-settings.php:607
+msgid "Global settings for the rooom 3D Product Viewer"
+msgstr "Globale Einstellungen für den rooom 3D Product Viewer"
+
+#. Author URI of the plugin
+#| msgid "http://rooom.com/"
+msgid "https://rooom.com/"
+msgstr "https://rooom.com/"
+
+#. URI of the plugin
+msgid "https://www.rooom.com/"
+msgstr "https://www.rooom.com/"
+
+#: includes/rooom-admin-settings.php:67
+msgid "Italian"
+msgstr "Italienisch"
+
+#: includes/rooom-admin-settings.php:57
+msgid "Language"
+msgstr "Sprache"
+
+#: includes/rooom-admin-settings.php:453
+msgid "Loading Progress Background"
+msgstr "Ladebildschirm Hintergrund"
+
+#: includes/rooom-admin-settings.php:466
+msgid "Loading Progress Color"
+msgstr "Ladebalken Farbe"
+
+#: includes/rooom-admin-settings.php:478
+msgid "Loading Progress Logo"
+msgstr "Ladebildschirm Logo"
+
+#: includes/rooom-woocommerce-settings.php:74
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/rooom-woocommerce-settings.php:93
+msgid "Make background transparent"
+msgstr "Hintergrund transparent machen"
+
+#: includes/rooom-admin-settings.php:124
+#| msgid ""
+#| "Makes background of the Rooom viewer transparent. Overwrites the skybox "
+#| "setting if active."
+msgid ""
+"Makes background of the rooom viewer transparent. Overwrites the skybox "
+"setting if active."
+msgstr ""
+"Hintergrund des rooom Viewers transparent machen; überschreibt die Skybox-"
+"Einstellung, falls aktiv."
+
+#: includes/rooom-admin-settings.php:146 
+#: includes/rooom-woocommerce-settings.php:99
+msgid "Mirror"
+msgstr "Spiegel"
+
+#. Description of the plugin
+msgid "Present your products in 3D, AR and VR."
+msgstr "Präsentieren Sie Ihre Produkte in 3D, AR und VR."
+
+#. Author of the plugin
+msgid "rooom"
+msgstr "rooom"
+
+#. Name of the plugin
+#: includes/rooom-woocommerce-settings.php:22
+msgid "rooom 3D Product Viewer"
+msgstr "rooom 3D Product Viewer"
+
+#: includes/rooom-admin-settings.php:606
+msgid "rooom 3D Product Viewer Settings"
+msgstr "rooom 3D Product Viewer Einstellungen"
+
+#: includes/rooom-admin-settings.php:667
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: includes/rooom-admin-settings.php:484
+msgid "Set the image of the viewer loading screen."
+msgstr "Ladebildschirm des Viewers festlegen"
+
+#: includes/rooom-admin-settings.php:69
+msgid ""
+"Set the language for the product viewer. Default: Language set in WordPress "
+"settings."
+msgstr ""
+"Sprache des  Viewers einstellen. Default: Die Sprache, die in den WordPress-"
+"Einstellungen ausgewählt ist."
+
+#: includes/rooom-admin-settings.php:138
+#| msgid "Sets brightness of the Rooom viewer."
+msgid "Sets brightness of the rooom viewer."
+msgstr "Helligkeit des rooom-Viewers einstellen."
+
+#: includes/rooom-admin-settings.php:241
+msgid "Sets the color of the annotation markers."
+msgstr "Farbe der Info-Marker einstellen"
+
+#: includes/rooom-admin-settings.php:255
+msgid ""
+"Setting a different size (in centimeter) for annotation marker. Relative to "
+"mesh scaling."
+msgstr ""
+"Größe (in Zentimetern) der Info-Marker relativ zur Mesh-Skalierung einstellen"
+
+#: includes/rooom-admin-settings.php:36
+msgid ""
+"Setting a number greater than 0 causes the model to automatically spin "
+"around the y-axis after loading. The number determines the rotation speed."
+msgstr ""
+"Ein Wert größer als 0 bewirkt, dass sich das Modell nach dem Laden "
+"automatisch um die y-Achse dreht. Der Wert bestimmt die "
+"Rotationsgeschwindigkeit."
+
+#: includes/rooom-admin-settings.php:272
+msgid ""
+"Setting the scale mode for android and ios devices (fixed = false, auto = "
+"true)."
+msgstr ""
+"Skalierungsmodus für Android- und iOS-Geräte einstellen (fixed = false, auto "
+"= true)"
+
+#: includes/rooom-admin-settings.php:290
+msgid "Setting to \"wall\" will enable the placement for walls"
+msgstr "Die Einstellung \"wall\" aktiviert die Platzierung an Wänden"
+
+#: includes/rooom-admin-settings.php:227
+msgid ""
+"Setting to a number greater than -1 will show the annotation with index X "
+"after viewer start."
+msgstr ""
+"Ein Wert größer als -1 bewirkt, dass die Zusatzinformation mit dem Index X "
+"nach dem Start des Viewers angezeigt wird."
+
+#: includes/rooom-admin-settings.php:459
+msgid "Show a dark background on the loading screen."
+msgstr "Dunklen Hintergrund für Ladebildschirm aktivieren"
+
+#: includes/rooom-admin-settings.php:206
+msgid "Show All Annotations"
+msgstr "Alle Zusatzinformationen anzeigen"
+
+#: includes/rooom-admin-settings.php:213
+msgid "Show all annotations at the same time."
+msgstr "Alle Zusatzinformationen gleichzeitig anzeigen"
+
+#: includes/rooom-admin-settings.php:357
+msgid "Show animation menu, if animations are available."
+msgstr "Animationsmenü anzeigen, wenn Animationen verfügbar sind"
+
+#: includes/rooom-admin-settings.php:370
+msgid "Show annotation menu."
+msgstr "Zusatzinformationsmenü anzeigen"
+
+#: includes/rooom-admin-settings.php:377
+msgid "Show Controls"
+msgstr "Steuerelemente anzeigen"
+
+#: includes/rooom-admin-settings.php:409
+msgid "Show the Fullscreen button."
+msgstr "Vollbild-Button anzeigen"
+
+#: includes/rooom-admin-settings.php:435
+msgid "Show the Help button."
+msgstr "Hilfe-Button anzeigen"
+
+#: includes/rooom-admin-settings.php:396
+msgid "Show the View in AR button."
+msgstr "AR-Button anzeigen"
+
+#: includes/rooom-admin-settings.php:422
+msgid "Show the zoom control buttons."
+msgstr "Zoom-Buttons anzeigen"
+
+#: includes/rooom-admin-settings.php:383
+msgid ""
+"Show UI control buttons. If not checked, View in AR and Fullscreen buttons "
+"are not shown and the respective settings are overwritten."
+msgstr ""
+"UI-Steuer-Buttons anzeigen. Wenn diese Option nicht aktiviert ist, werden "
+"die Schaltflächen \"In AR anzeigen\" und \"Vollbild\" nicht angezeigt und "
+"die jeweiligen Einstellungen werden überschrieben."
+
+#: includes/rooom-admin-settings.php:103 
+#: includes/rooom-woocommerce-settings.php:84
+msgid "Skybox"
+msgstr "Skybox"
+
+#: includes/rooom-admin-settings.php:75
+msgid "Start AR"
+msgstr "AR starten"
+
+#: includes/rooom-admin-settings.php:117 
+#: includes/rooom-woocommerce-settings.php:92
+msgid "Transparent"
+msgstr "Transparent"
+
+#: includes/rooom-admin-settings.php:351
+msgid "UI Animations"
+msgstr "UI Animationen"
+
+#: includes/rooom-admin-settings.php:364
+msgid "UI Annotations"
+msgstr "UI Zusatzinformationen"
+
+#: includes/rooom-admin-settings.php:403
+msgid "UI Fullscreen Button"
+msgstr "UI Vollbild Button"
+
+#: includes/rooom-admin-settings.php:429
+msgid "UI Help Button"
+msgstr "UI Hilfe Button"
+
+#: includes/rooom-admin-settings.php:442
+msgid "UI Hint Color"
+msgstr "UI Hinweisfarbe"
+
+#: includes/rooom-admin-settings.php:24 includes/rooom-admin-settings.php:618
+msgid "User Interface"
+msgstr "Nutzeroberfläche"
+
+#: includes/rooom-admin-settings.php:390
+msgid "View in AR"
+msgstr "In AR anzeigen"
+
+#: includes/rooom-woocommerce-settings.php:55
+msgid "Viewer ID"
+msgstr "Viewer ID"
+
+#: includes/rooom-admin-settings.php:51
+msgid ""
+"When checked, model loads immediately once the page is ready, rather than "
+"waiting for the user to click the Play button"
+msgstr ""
+"Ist diese Option aktiviert, wird das Modell sofort nach Laden der Seite "
+"geladen, ohne Klick auf den \"Play-Button\"."
+
+#: includes/rooom-admin-settings.php:416
+msgid "Zoom Buttons"
+msgstr "Zoom Buttons"

@@ -1,0 +1,10 @@
+.rooom_product_viewer>iframe{
+    width: 100% !important;
+}
+/*give aspect ratio to iframe surrounding div*/
+.woocommerce-product-gallery__image.rooom_product_viewer{
+    aspect-ratio: 16 / 9;
+}
+.flex-control-nav.flex-control-thumbs li{
+    height: fit-content; 
+}
